@@ -1,4 +1,4 @@
-<img src="./images/pycuda.jpg" width ="100%">
+<img src="https://github.com/KnowledgePending/Pycuda-Docker/blob/master/images/pycuda.jpg" width ="100%">
 
 # Pycuda Docker environment
 ## Image details
