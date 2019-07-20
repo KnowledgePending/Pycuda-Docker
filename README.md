@@ -30,7 +30,8 @@ docker pull bryankp/pycuda:latest
 ```
 docker run --runtime=nvidia -v <host_path>:<container_path> -ti bryankp/pycuda:latest bash
 ```
-
+##  Test if pycuda is working correctly
+* See the [test_script README](https://github.com/KnowledgePending/Pycuda-Docker/blob/master/test_script/README.md)
 ### Further Details
 * [Pycuda project page](https://pypi.org/project/pycuda/)
 * For CUDA troubleshooting issues see [nvidia-docker instructions](https://github.com/NVIDIA/nvidia-docker)
